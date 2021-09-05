@@ -44,7 +44,7 @@ w(x) is weighting representation, which will enlarge gradient loss on boundaries
 
 ### Prediction
 
-![sample prediction](/static/sample_prediction.png)
+![sampleprediction](/static/sample_prediction.png)
 
 ### TODO
 
